@@ -18,7 +18,7 @@ else:
   print("invalid input")
 
 
-print(word)
+
 word=list(word)
 print("You have to guess this word.\n","- "*len(word))
 
